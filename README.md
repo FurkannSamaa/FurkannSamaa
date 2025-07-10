@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben Muhammed Furkan Çonoğlu</h1>
-<h3 align="center">Erzurum Teknik Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim. Okulumda aldığım eğitimler doğrultusunda C,C# ve Java gibi yazılım dillerinde kendimi geliştirdim. Katıldığım eğitimlerde Unity oyun programlama ile tanıştım. Kendimi bu alanda ilerletmek ve ilerde Game Developer olarak çalışmak istiyorum. Yaptığım projeleri inceleyerek ve Linkedin hesabıma bakarak hakkımda daha fazla bilgiye ulaşabilirsiniz.</h3>
+<h3 align="center">Erzurum Teknik Üniversitesi Bilgisayar Mühendisliği mezunuyum. Okulumda aldığım eğitimler doğrultusunda C,C# ve Java gibi yazılım dillerinde kendimi geliştirdim. Katıldığım eğitimlerde Unity oyun programlama ile tanıştım. Kendimi bu alanda ilerletmek ve ilerde Game Developer olarak çalışmak istiyorum. Yaptığım projeleri inceleyerek ve Linkedin hesabıma bakarak hakkımda daha fazla bilgiye ulaşabilirsiniz.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
